@@ -4,15 +4,20 @@ For this project, you will be assigned a specific algorithm or algorithms. For t
 
 You will be assigned one of the following algorithms or sets of algorithms:
 
-1. Sliding Window
-1. Two Pointers
-1. Merge Sort
-1. Binary Search
-1. Fibonacci Sequence
-1. Bubble Sort
-1. Insertion Sort
-1. Mean, Median & Mode
-1. Parenthesis Matcher
+#### Easy:
+
+- Bubble Sort
+- Insertion Sort
+- Mean, Median & Mode
+- Parenthesis Matcher
+
+##### Advanced:
+
+- Sliding Window
+- Two Pointers
+- Merge Sort
+- Binary Search
+- Fibonacci Sequence
 
 ## Project Scoring
 
