@@ -4,12 +4,15 @@ For this project, you will be assigned a specific algorithm or algorithms. For t
 
 You will be assigned one of the following algorithms or sets of algorithms:
 
-1. Sliding window
-1. Two pointers
-1. Word frequency & unique array
-1. Merge sort
-1. Median & Mode
-1. Parenthesis matcher
+1. Sliding Window
+1. Two Pointers
+1. Merge Sort
+1. Binary Search
+1. Fibonacci Sequence
+1. Bubble Sort
+1. Insertion Sort
+1. Mean, Median & Mode
+1. Parenthesis Matcher
 
 ## Project Scoring
 
@@ -27,7 +30,7 @@ To complete this assignment, you will need to complete the following tasks. Note
 
 ### Set up
 
-1. Create a Replit with an `index.js` file and a `readme.md` file.
+1. Create a Repo with an `index.js` file and a `readme.md` file.
 
 ### index.js
 
@@ -36,13 +39,14 @@ To complete this assignment, you will need to complete the following tasks. Note
 
 ### readme.md
 
-4. Your `readme.md` file should include an introduction to your algorithm(s), summarizing the purpose of the algorithm and why it is important.
+4. Your `readme.md` file should include an introduction to your algorithm(s), summarizing the purpose of the algorithm and an overview of how it works.
 1. Your `readme.md` file should also include an "Algorithm description" section that details, step-by-step, how the algorithm works. You may wish to use images or code examples to get the point across.
 1. Your `readme.md` file should also include a "Big O evaluation" section that examines the time complexity of the algorithm. It should state the correct complexity and describe why the algorithm has that complexity.
 1. Your `readme.md` file should also include a "Use cases" section that describes when this algorithm may be used.
 1. Your `readme.md` file should also include an "Edge cases and concerns" section that describes any constraints to using the algorithm or any situations where the algorithm will not yield the correct result.
 1. Your `readme.md` file should also include a "Citations" section where you provide links to any websites, videos, or other resources you used to help generate your code or your explanation.
-1. Your `readme.md` file should be free from spelling errors and mistakes.
+   1. Any ChatGPT citations should include a link to the conversation or conversations you had with chatGPT
+1. Your `readme.md` file should be free from spelling errors and mistakes. Try to download the [vscode extension spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), and/or copy the text to a google doc and use Grammarly to help you with the grammar
 1. Your `readme.md` file should be understandable and clear.
 
 ## Mastery rubric
