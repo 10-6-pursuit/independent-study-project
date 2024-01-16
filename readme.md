@@ -62,4 +62,4 @@ To view components of the mastery rubric, view the appropriate assignment on Can
 
 ## Presentation rubric
 
-This section of the project is designed to measure your ability to present your project and your code. These skills are crucial for succeeding in the course and getting your first job as a software developer. To view components of the mastery rubric, view the appropriate assignment on Canvas.
+This section of the project is designed to measure your ability to present your project and your code. These skills are crucial for succeeding in the course and getting your first job as a software developer. To view components of the mastery rubric, view the appropriate assignment on Canvas. Take note that the presentation should take 5-8 minutes, including time for the instructors and the class to ask 1-3 questions.
