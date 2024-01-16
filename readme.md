@@ -6,12 +6,19 @@ You will be assigned one of the following algorithms or sets of algorithms:
 
 #### Basic:
 
+- Map
+- Reduce
+- Every
+- Find
+
+#### Intermediate:
+
 - Bubble Sort
 - Insertion Sort
 - Mean, Median & Mode
 - Parenthesis Matcher
 
-##### Advanced:
+#### Advanced:
 
 - Sliding Window
 - Two Pointers
