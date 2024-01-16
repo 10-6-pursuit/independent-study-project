@@ -33,9 +33,12 @@ In total, you must receive at least 70% to complete this project. For example, y
 
 To complete this assignment, you will need to complete the following tasks. Note that, for this project in particular, you are expected to use online resources to help you develop the code and explanation. This purpose of this project is to focus on understanding and communicating code.
 
+[Check the example project here](https://github.com/10-6-pursuit/independent-study-project-example)
+
 ### Set up
 
 1. Create a Repo with an `index.js` file and a `readme.md` file.
+1. Submit the link to the repo on Canvas
 
 ### index.js
 
