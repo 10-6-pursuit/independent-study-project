@@ -9,7 +9,7 @@ You will be assigned one of the following algorithms or sets of algorithms:
 - Map
 - Reduce
 - Every
-- Find
+- Filter
 
 #### Intermediate:
 
